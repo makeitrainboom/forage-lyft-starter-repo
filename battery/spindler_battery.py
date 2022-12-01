@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from battery import Battery
+from battery.battery import Battery
 
 
 class SpindlerBattery(Battery):
